@@ -16,6 +16,6 @@ public class DemoController {
 
     @GetMapping("/getSetting")
     public String setting() {
-        return "22222";
+        return "Master Two ！";
     }
 }
